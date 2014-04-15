@@ -1,0 +1,3 @@
+title=KivPong
+author=Matt Lebrun
+orientation=portrait
